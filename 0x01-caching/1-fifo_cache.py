@@ -18,13 +18,13 @@ class FIFOCache(BaseCaching):
 
     def put(self, key, item):
         """Adds an item in the cache
-	using FIFO algorithm.
+        using FIFO algorithm.
         """
         if key is None or item is None:
             return
         self.cache_data[key] = item
         if len(self.cache_data) > BaseCaching.MAX_ITEMS:
-	    # If cache is full, discard the first item (FIFO)
+            # If cache is full, discard the first item (FIFO)
             first_key, _ = self.cache_data.popitem(False)
             print("DISCARD:", first_key)
 
