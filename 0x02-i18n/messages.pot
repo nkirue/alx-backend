@@ -1,16 +1,16 @@
 # Translations template for i18n.
-# Copyright (C) 2022 Bezaleel Olakunori
+# Copyright (C) 2022 NKiru Ezefosie
 # This file is distributed under the same license as the i18n project.
-# Bezaleel Olakunori <bezaleeloci@gmail.com>, 2022.
+# NKiru Ezefosie <nkiru.happiness@gmail.com>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: bezaleeloci@gmail.com\n"
-"POT-Creation-Date: 2022-05-10 06:39+0100\n"
+"Report-Msgid-Bugs-To: nkiru.happiness@gmail.com\n"
+"POT-Creation-Date: 2024-05-14 06:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Bezaleel Olakunori <bezaleeloci@gmail.com>\n"
+"Last-Translator: NKiru Ezefosie <nkiru.happiness@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
